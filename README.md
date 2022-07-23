@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen Blevins
 - 👀 I’m interested in music, skateboarding, tech, and software programming
-- 🌱 I’m currently using React, Redux and other technologies while pursuing a degree in Computer Science
+- 🌱 I’m currently using MERN and other technologies while pursuing a degree in Computer Science
 - 📫 How to reach me scbdev2021@gmail.com
 
 <!---
